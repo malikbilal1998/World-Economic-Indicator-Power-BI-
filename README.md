@@ -9,19 +9,27 @@ The dashboard consists of three key pages:
 ### Overview page
 
 Displays a country-level table, a world map, and a bar chart showing the total number of countries by region.
-Screenshot Recommendation: Add an image of the Overview Page with a focus on the map and table to highlight interactivity.
+
+
+![Alt Text](https://github.com/malikbilal1998/World-Economic-Indicator-Power-BI-/blob/144baa76ad5c1b308fe03082b0dc9bc6436a8856/Overview.jpg)
+
 
 ### Country Details
 
 Detailed analytics for a selected country, including:
 Four KPI cards (Population, GDP, Population Density, GDP per Capita).
 A bar graph and table showing yearly GDP trends.
-Screenshot Recommendation: Include a snapshot of a selected country's drillthrough page showing all visuals (KPI cards, trends, and table).
+
+
+![Alt Text](https://github.com/malikbilal1998/World-Economic-Indicator-Power-BI-/blob/144baa76ad5c1b308fe03082b0dc9bc6436a8856/Countries%20Details.jpg)
+
 
 ### Metadata
 
 Provides detailed information about the data sources used in the report.
-Screenshot Recommendation: Add a clean image of the Metadata Page with visible data source links.
+
+![Alt Text](https://github.com/malikbilal1998/World-Economic-Indicator-Power-BI-/blob/144baa76ad5c1b308fe03082b0dc9bc6436a8856/Metadata.jpg)
+
 
 
 ## 🛠️ Key Features
