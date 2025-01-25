@@ -108,10 +108,14 @@ Metadata Page
 
 ### 🛠️ Tools Used
 Power BI: Data visualization and dashboard design.
+
 SQL: Data extraction and transformation.
+
 DAX: Custom measures and calculations.
 
 ### 🌟 Future Enhancements
 Add time-series forecasting for economic indicators.
+
 Include additional metrics like inflation rates or trade balances.
+
 Provide localized filtering for specific regions or income groups.
